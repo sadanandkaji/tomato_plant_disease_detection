@@ -1,0 +1,8 @@
+﻿data/
+__pycache__/
+*.pyc
+*.zip
+frontend/node_modules/
+frontend/.next/
+.env
+.vscode/
